@@ -1,6 +1,6 @@
 # Hi, I'm Vedika Rana 
 
-B.Tech CSE (AI & Data Science) — MIT-WPU, Pune   
+B.Tech CSE (AI & Data Science) 
 CFA Level 1 Candidate · Portfolio Manager · Wealth Advisor  
 Building at the intersection of **AI + Finance + Product**  
 Founder, Roots & RoastCO  
